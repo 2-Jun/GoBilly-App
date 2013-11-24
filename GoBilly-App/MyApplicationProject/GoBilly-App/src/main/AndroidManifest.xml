@@ -22,6 +22,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <receiver
+            android:icon="@drawable/ic_launcher"
+            android:label="GoBilly Widget"
+            android:name=".BroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APP_WIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_provider"/>
+            </receiver>
     </application>
 
 </manifest>
