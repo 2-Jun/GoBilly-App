@@ -25,7 +25,7 @@
         <receiver
             android:icon="@drawable/ic_launcher"
             android:label="GoBilly Widget"
-            android:name="BroadcastReceiver" >
+            android:name=".BroadcastReceiver" >
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
