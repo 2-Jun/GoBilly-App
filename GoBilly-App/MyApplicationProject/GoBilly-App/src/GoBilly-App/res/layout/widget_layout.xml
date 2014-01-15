@@ -3,17 +3,37 @@
     android:id="@+id/widget_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     android:background="@layout/myshape" >
 
     <TextView
-        android:id="@+id/update"
-        style="@android:style/TextAppearance.Medium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/word"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="3dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/desc"
+        android:layout_marginLeft="30dp" />
+
+    <TextView
+        style="@android:style/TextAppearance.Small"
+        android:id="@+id/ex"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_gravity="center"
-        android:gravity="center_horizontal|center_vertical"
-        android:layout_margin="4dip"
-        android:text="Static Text" >
-    </TextView>
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="Static Text"
+        android:layout_marginLeft="30dp"
+        android:textSize="16dp"
+        android:layout_marginTop="10dp" />
 
 </LinearLayout>
