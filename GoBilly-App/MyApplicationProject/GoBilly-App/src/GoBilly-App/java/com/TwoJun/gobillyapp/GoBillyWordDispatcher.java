@@ -22,10 +22,10 @@ public class GoBillyWordDispatcher extends WordDispatcher {
     // Create an instance when it is initialized in order for Singleton pattern to work properly.
     protected static GoBillyWordDispatcher _instance = new GoBillyWordDispatcher();
 
+    private GoBillyWordDispatcher() {}
     public static GoBillyWordDispatcher getInstance() {
         return _instance;
     }
-
 
     private String word, description, example;
     private final String url = "http://www-blogger-opensocial.googleusercontent.com/gadgets/ifr?url=http://korean.peirazo.net/wod.xml&container=blogger&view=default&lang=en&country=ALL&sanitize=0&v=fe0beba99f20cfbb&libs=core&parent=http://www.gobillykorean.com/&mid=1#st=e%3DAFlCd0VUr3NDycvUB9VURIwiJIUX4azIzek%252BmtihIBjiP0px86LRGHidZ45%252FskHSPm2KGVz7J49J4B3FIZ7EpUlxK0dqazcmkpb%252FaVoViN%252FxDsX1ap0D856Hw4f81IneZyyyXosengyH%26c%3Dblogger&rpctoken=680372992061271336";

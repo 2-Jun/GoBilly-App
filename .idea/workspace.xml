@@ -21,7 +21,10 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873757a9-8e4b-45e1-a12c-ea053f8e8568" name="Default" comment="" />
+    <list default="true" id="873757a9-8e4b-45e1-a12c-ea053f8e8568" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="GoBilly-App.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,11 +90,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="27" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-              <folding>
-                <element signature="e#415#433#0" expanded="true" />
-                <element signature="e#582#600#0" expanded="true" />
-              </folding>
+            <state line="18" column="27" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="690">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,7 +99,7 @@
       <file leaf-file-name="widget_provider.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="2" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+            <state line="8" column="2" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -111,7 +111,7 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="15" column="12" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -120,7 +120,7 @@
       <file leaf-file-name="WordDispatcher.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -129,17 +129,9 @@
       <file leaf-file-name="GoBillyWordDispatcher.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="25" selection-start="768" selection-end="768" vertical-scroll-proportion="0.2848837" vertical-offset="130" max-vertical-offset="1005">
+            <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.64534885" vertical-offset="0" max-vertical-offset="885">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#773#774#0" expanded="true" />
-                <element signature="e#1785#1786#0" expanded="true" />
-                <element signature="e#1817#1818#0" expanded="true" />
-                <element signature="e#1869#1870#0" expanded="true" />
-                <element signature="e#1908#1909#0" expanded="true" />
-                <element signature="e#1956#1957#0" expanded="true" />
-                <element signature="e#1991#1992#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,7 +140,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="13" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="930">
+            <state line="28" column="13" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1065">
               <folding />
             </state>
           </provider>
@@ -157,11 +149,8 @@
       <file leaf-file-name="BroadcastReceiver.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="945">
-              <folding>
-                <element signature="e#1034#1314#0" expanded="true" />
-                <element signature="e#1303#1304#0" expanded="true" />
-              </folding>
+            <state line="50" column="0" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1035">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -172,7 +161,7 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="5" column="34" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+            <state line="5" column="34" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -181,7 +170,7 @@
       <file leaf-file-name="Resources.class" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/content/res/Resources.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="53" selection-start="6063" selection-end="6063" vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="1995">
+            <state line="93" column="53" selection-start="6063" selection-end="6063" vertical-scroll-proportion="0.0" vertical-offset="1395" max-vertical-offset="2010">
               <folding />
             </state>
           </provider>
@@ -217,8 +206,8 @@
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml" />
-        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java" />
+        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" />
       </list>
     </option>
   </component>
@@ -306,7 +295,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -492,6 +480,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -511,6 +500,7 @@
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="IM-A780L03111026020718" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Emulator44" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -588,6 +578,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -613,19 +616,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -773,7 +763,6 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38771185" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -793,6 +782,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38771185" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -865,10 +855,7 @@
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="27" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <folding>
-            <element signature="e#415#433#0" expanded="true" />
-            <element signature="e#582#600#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -923,26 +910,15 @@
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="50" column="0" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="945">
-          <folding>
-            <element signature="e#1034#1314#0" expanded="true" />
-            <element signature="e#1303#1304#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="25" selection-start="768" selection-end="768" vertical-scroll-proportion="0.2848837" vertical-offset="130" max-vertical-offset="1005">
+        <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.64534885" vertical-offset="0" max-vertical-offset="885">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#1785#1786#0" expanded="true" />
-            <element signature="e#1817#1818#0" expanded="true" />
-            <element signature="e#1869#1870#0" expanded="true" />
-            <element signature="e#1908#1909#0" expanded="true" />
-            <element signature="e#1956#1957#0" expanded="true" />
-            <element signature="e#1991#1992#0" expanded="true" />
           </folding>
         </state>
       </provider>
