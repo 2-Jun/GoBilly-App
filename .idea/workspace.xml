@@ -22,11 +22,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="873757a9-8e4b-45e1-a12c-ea053f8e8568" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GoBilly-App.iws" />
@@ -133,21 +130,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoBillyWordDispatcher.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GoBillyWordDispatcher.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="26" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="990">
+            <state line="19" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.18023255" vertical-offset="130" max-vertical-offset="1005">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#740#741#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-                <element signature="e#1784#1785#0" expanded="true" />
-                <element signature="e#1816#1817#0" expanded="true" />
-                <element signature="e#1868#1869#0" expanded="true" />
-                <element signature="e#1907#1908#0" expanded="true" />
-                <element signature="e#1955#1956#0" expanded="true" />
-                <element signature="e#1990#1991#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#1785#1786#0" expanded="true" />
+                <element signature="e#1817#1818#0" expanded="true" />
+                <element signature="e#1869#1870#0" expanded="true" />
+                <element signature="e#1908#1909#0" expanded="true" />
+                <element signature="e#1956#1957#0" expanded="true" />
+                <element signature="e#1991#1992#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="13" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="930">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,7 +161,7 @@
       <file leaf-file-name="BroadcastReceiver.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="65" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="960">
+            <state line="50" column="0" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="945">
               <folding>
                 <element signature="e#1034#1314#0" expanded="true" />
                 <element signature="e#1303#1304#0" expanded="true" />
@@ -164,7 +170,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="widget_layout.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="widget_layout.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml">
           <provider selected="true" editor-type-id="android-designer">
             <state />
@@ -192,15 +198,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dimens.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/values/dimens.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -224,8 +221,8 @@
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml" />
-        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" />
+        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java" />
       </list>
     </option>
   </component>
@@ -864,13 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="13" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="77" max-vertical-offset="1054">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/ic_launcher-web.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -883,13 +873,6 @@
             <element signature="e#415#433#0" expanded="true" />
             <element signature="e#582#600#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -910,33 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="65" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="960">
-          <folding>
-            <element signature="e#1034#1314#0" expanded="true" />
-            <element signature="e#1303#1304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="26" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="990">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#1784#1785#0" expanded="true" />
-            <element signature="e#1816#1817#0" expanded="true" />
-            <element signature="e#1868#1869#0" expanded="true" />
-            <element signature="e#1907#1908#0" expanded="true" />
-            <element signature="e#1955#1956#0" expanded="true" />
-            <element signature="e#1990#1991#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="2" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
@@ -951,6 +907,47 @@
       <provider editor-type-id="text-editor">
         <state line="5" column="34" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="13" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="77" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="945">
+          <folding>
+            <element signature="e#1034#1314#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.18023255" vertical-offset="130" max-vertical-offset="1005">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#1785#1786#0" expanded="true" />
+            <element signature="e#1817#1818#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+            <element signature="e#1956#1957#0" expanded="true" />
+            <element signature="e#1991#1992#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

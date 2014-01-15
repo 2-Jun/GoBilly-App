@@ -17,6 +17,7 @@ import java.util.logging.Logger;
  * @author jyp <interruptz@gmail.com>
  * @since 01/16/2014
  */
+
 public class GoBillyWordDispatcher extends WordDispatcher {
     // Create an instance when it is initialized in order for Singleton pattern to work properly.
     protected static GoBillyWordDispatcher _instance = new GoBillyWordDispatcher();

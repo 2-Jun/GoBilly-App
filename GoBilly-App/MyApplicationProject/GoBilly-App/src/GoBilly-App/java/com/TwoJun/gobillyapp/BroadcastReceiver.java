@@ -49,7 +49,6 @@ public class BroadcastReceiver extends AppWidgetProvider{
             labels.setTextViewText(R.id.desc, GoBillyWordDispatcher.getInstance().getDescription() );
             labels.setTextViewText(R.id.ex, GoBillyWordDispatcher.getInstance().getExample());
 
-            Log.e("HOHO", GoBillyWordDispatcher.getInstance().getWord());
             appWidgetManager.updateAppWidget( widget, labels );
         } catch (InterruptedException e) {
             e.printStackTrace();
