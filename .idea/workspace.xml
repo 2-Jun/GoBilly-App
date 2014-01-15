@@ -21,11 +21,7 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873757a9-8e4b-45e1-a12c-ea053f8e8568" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="873757a9-8e4b-45e1-a12c-ea053f8e8568" name="Default" comment="" />
     <ignored path="GoBilly-App.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,7 +129,7 @@
       <file leaf-file-name="GoBillyWordDispatcher.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.18023255" vertical-offset="130" max-vertical-offset="1005">
+            <state line="25" column="25" selection-start="768" selection-end="768" vertical-scroll-proportion="0.2848837" vertical-offset="130" max-vertical-offset="1005">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#741#742#0" expanded="true" />
@@ -936,7 +932,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.18023255" vertical-offset="130" max-vertical-offset="1005">
+        <state line="25" column="25" selection-start="768" selection-end="768" vertical-scroll-proportion="0.2848837" vertical-offset="130" max-vertical-offset="1005">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#741#742#0" expanded="true" />
