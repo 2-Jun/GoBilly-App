@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/lib" recursive="false" />
+  </library>
+</component>
