@@ -4,4 +4,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    tools:ignore="MergeRootFrame" />
+    tools:ignore="MergeRootFrame">
+
+    <fragment
+        android:id="@+id/list"
+        android:name="com.TwoJun.gobillyapp.ListFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.TwoJun.gobillyapp.ListFragment"
+        tools:layout="@layout/fragment_list"
+      />
+</FrameLayout>
