@@ -5,13 +5,12 @@ import android.appwidget.AppWidgetProvider;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
-import android.util.Log;
 import android.widget.RemoteViews;
 
 /**
  * Created by Arjun on 11/24/13.
  */
-public class BroadcastReceiver extends AppWidgetProvider{
+public class BroadcastReceiver extends AppWidgetProvider {
     @Override
     public void onReceive(Context context, Intent intent) {
         super.onReceive(context, intent);
@@ -30,8 +29,8 @@ public class BroadcastReceiver extends AppWidgetProvider{
     @Override
     public void onUpdate(Context context, AppWidgetManager appWidgetManager, int[] appWidgetIds) {
         RemoteViews labels = new RemoteViews(context.getPackageName(), R.layout.widget_layout);
-        ComponentName widget = new ComponentName( context, BroadcastReceiver.class);
-        Thread thread = new Thread(new Runnable(){
+        ComponentName widget = new ComponentName(context, BroadcastReceiver.class);
+        Thread thread = new Thread(new Runnable() {
             @Override
             public void run() {
                 try {
@@ -46,10 +45,10 @@ public class BroadcastReceiver extends AppWidgetProvider{
         try {
             thread.join();
             labels.setTextViewText(R.id.word, GoBillyWordDispatcher.getInstance().getWord());
-            labels.setTextViewText(R.id.desc, GoBillyWordDispatcher.getInstance().getDescription() );
+            labels.setTextViewText(R.id.desc, GoBillyWordDispatcher.getInstance().getDescription());
             labels.setTextViewText(R.id.ex, GoBillyWordDispatcher.getInstance().getExample());
 
-            appWidgetManager.updateAppWidget( widget, labels );
+            appWidgetManager.updateAppWidget(widget, labels);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

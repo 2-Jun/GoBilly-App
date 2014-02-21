@@ -1,15 +1,10 @@
 package com.TwoJun.gobillyapp;
 
-import android.util.Log;
-
 import org.jsoup.*;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  * A Class that extends WordDispatcher and retrieves KOREAN WORD OF THE DAY from the GoBilly website
@@ -22,7 +17,9 @@ public class GoBillyWordDispatcher extends WordDispatcher {
     // Create an instance when it is initialized in order for Singleton pattern to work properly.
     protected static GoBillyWordDispatcher _instance = new GoBillyWordDispatcher();
 
-    private GoBillyWordDispatcher() {}
+    private GoBillyWordDispatcher() {
+    }
+
     public static GoBillyWordDispatcher getInstance() {
         return _instance;
     }

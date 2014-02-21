@@ -9,8 +9,11 @@ package com.TwoJun.gobillyapp;
 
 public abstract class WordDispatcher {
     public abstract void update();
+
     public abstract String getWord();
+
     public abstract String getDescription();
+
     public abstract String getExample();
 
 }
