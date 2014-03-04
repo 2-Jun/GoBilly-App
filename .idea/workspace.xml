@@ -20,11 +20,15 @@
       </layout>
     </layouts>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="WARN" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="873757a9-8e4b-45e1-a12c-ea053f8e8568" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/gen/com/TwoJun/gobillyapp/BuildConfig.java" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/gen/com/TwoJun/gobillyapp/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/GoBilly-App.iml" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/GoBilly-App.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml" />
+      <change type="DELETED" beforePath="C:\Users\Arjun\Documents\GitHub\GoBilly-App\GoBilly-App\MyApplicationProject\GoBilly-App\src\GoBilly-App\res\layout\fragment_main.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GoBilly-App.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,32 +92,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml">
+      <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="27" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="782">
+            <state line="7" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="widget_provider.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="44" selection-start="353" selection-end="353" vertical-scroll-proportion="0.20058997" vertical-offset="0" max-vertical-offset="678">
-              <folding />
-            </state>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="myshape.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/myshape.xml">
-          <provider editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="476">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="12" selection-start="416" selection-end="416" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
         </entry>
@@ -121,7 +119,7 @@
       <file leaf-file-name="WordDispatcher.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="374">
+            <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
@@ -130,18 +128,16 @@
       <file leaf-file-name="GoBillyWordDispatcher.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1003">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="9" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1207">
+            <state line="32" column="47" selection-start="896" selection-end="896" vertical-scroll-proportion="0.3105023" vertical-offset="68" max-vertical-offset="1938">
               <folding />
             </state>
           </provider>
@@ -165,15 +161,6 @@
           </provider>
           <provider selected="true" editor-type-id="android-designer">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Resources.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/content/res/Resources.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="53" selection-start="6063" selection-end="6063" vertical-scroll-proportion="0.0" vertical-offset="1581" max-vertical-offset="2278">
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -202,21 +189,24 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java" />
         <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml" />
+        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/fragment_main.xml" />
+        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/RSSActivity.java" />
+        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="694" />
+    <option name="y" value="284" />
+    <option name="width" value="1152" />
+    <option name="height" value="997" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -278,7 +268,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -297,6 +287,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -481,8 +473,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -499,10 +489,10 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="IM-A780L03111026020718" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="07da444c" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Emulator44" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -539,7 +529,7 @@
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -581,6 +571,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -606,19 +609,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -763,34 +753,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="694" y="284" width="1152" height="997" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38771185" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26970956" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26970956" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38771185" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29564315" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25943395" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46358383" sideWeight="0.4225352" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780084" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46358383" sideWeight="0.5765845" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21919014" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -820,7 +810,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
+        <state line="8" column="44" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
@@ -844,16 +834,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1003">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1139">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="9" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1428">
+        <state line="15" column="9" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1207">
           <folding />
         </state>
       </provider>
@@ -887,13 +875,77 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="27" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="2" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/myshape.xml">
       <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="15" column="12" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="9" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/BroadcastReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/content/res/Resources.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="53" selection-start="6063" selection-end="6063" vertical-scroll-proportion="0.0" vertical-offset="1581" max-vertical-offset="2278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/ic_launcher-web.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
@@ -944,36 +996,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/myshape.xml">
-      <provider editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/widget_layout.xml">
       <provider editor-type-id="text-editor">
         <state line="5" column="34" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="9" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1207">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
@@ -985,18 +1013,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1003">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="8" column="44" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/xml/widget_provider.xml">
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/myshape.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="44" selection-start="353" selection-end="353" vertical-scroll-proportion="0.20058997" vertical-offset="0" max-vertical-offset="678">
+        <state line="15" column="12" selection-start="416" selection-end="416" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/GoBillyWordDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="27" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/WordDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-19/android.jar!/android/R.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="547" column="30" selection-start="39632" selection-end="39632" vertical-scroll-proportion="-0.7886057" vertical-offset="9808" max-vertical-offset="34136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/java/com/TwoJun/gobillyapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="47" selection-start="896" selection-end="896" vertical-scroll-proportion="0.3105023" vertical-offset="68" max-vertical-offset="1938">
           <folding />
         </state>
       </provider>
