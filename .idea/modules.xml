@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/GoBilly-App.iml" filepath="$PROJECT_DIR$/GoBilly-App/MyApplicationProject/GoBilly-App/src/GoBilly-App/GoBilly-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BillyGoApp.iml" filepath="$PROJECT_DIR$/BillyGoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnKoreanWithBillyGo.iml" filepath="$PROJECT_DIR$/LearnKoreanWithBillyGo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
